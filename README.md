@@ -15,6 +15,7 @@ This is my attempt to solve [Coding Challenge FYI](https://codingchallenges.fyi)
       <td>
         <ul>
           <li><a href="https://github.com/andriawan24/coding-challenge-fyi/blob/main/build-own-wc/c/source.c" target="_blank">C</a></li>
+          <li><a href="https://github.com/andriawan24/coding-challenge-fyi/blob/main/build-own-wc/go/" target="_blank">Go</a></li>
         </ul>
       </td>
     </tr>
